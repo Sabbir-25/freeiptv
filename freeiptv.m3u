@@ -11,17 +11,17 @@ http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
 http://tv4.hoichoi24.com:8080/1111/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ATN News" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" tvg-chno="1" group-title="Bangla",ATN News
 http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Sony Sports Ten 1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 1
+#EXTINF:-1 tvg-id="7" tvg-name="Sony Sports Ten 1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" tvg-chno="1" group-title="Sports",Sony Sports Ten 1
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-ten-1-live|
 #EXTINF:-1 tvg-id="8" tvg-name="Sony HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b5ee0f7-d26a-45b5-94a1-24b7ec1421f0/74b936f0-12b0-487f-bccf-71f71031ec66.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony HD
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-hd-live|
-#EXTINF:-1 tvg-id="9" tvg-name="Sony Sports Ten 5" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 5
+#EXTINF:-1 tvg-id="9" tvg-name="Sony Sports Ten 5" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5f317e1-3503-40fa-ad37-8ad341109a85/953f7afc-76c7-41a2-b775-644121768d97.png?width=300" tvg-chno="1" group-title="Sports",Sony Sports Ten 5
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-ten-5|
-#EXTINF:-1 tvg-id="10" tvg-name="Sony MAX HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony MAX HD
+#EXTINF:-1 tvg-id="10" tvg-name="Sony MAX HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300" tvg-chno="1" group-title="Hindi",Sony MAX HD
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-max-hd-live|
-#EXTINF:-1 tvg-id="11" tvg-name="Sony Sports Ten 2" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 2
+#EXTINF:-1 tvg-id="11" tvg-name="Sony Sports Ten 2" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e2174a76-fc11-4609-bb83-aa94aa117a27/c8ea1bab-49ab-4702-be5e-7058bbf6a591.png?width=300" tvg-chno="1" group-title="Sports",Sony Sports Ten 2
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-ten-2-live|
-#EXTINF:-1 tvg-id="12" tvg-name="Sony Sports Ten 3" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Sports Ten 3
+#EXTINF:-1 tvg-id="12" tvg-name="Sony Sports Ten 3" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300" tvg-chno="1" group-title="Sports",Sony Sports Ten 3
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-ten-3-live|
 #EXTINF:-1 tvg-id="13" tvg-name="Zee Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" tvg-chno="1" group-title="Bangla",Zee Bangla
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=zee-bangla|
@@ -29,13 +29,13 @@ http://bdixtv247.techpriyo.com/api/bio/av.php?id=zee-bangla|
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=colors-bangla|
 #EXTINF:-1 tvg-id="15" tvg-name="NTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png?width=300" tvg-chno="1" group-title="Bangla",NTV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=ntv|
-#EXTINF:-1 tvg-id="16" tvg-name="Gazi TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="1" group-title="Bangla","Gazi TV"
-http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
-#EXTINF:-1 tvg-id="27" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Bangla",T Sports
+#EXTINF:-1 tvg-id="16" tvg-name="Gazi TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="1" group-title="Bangla",Gazi TV
+http://114.130.96.165:8080/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Sports",T Sports
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
 #EXTINF:-1 tvg-id="17" tvg-name="Channel 9" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="1" group-title="Bangla",Channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Bioscope Playlist by t.me/bdixtv24",Sony Wah
+#EXTINF:-1 tvg-id="18" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Sports",Sony Wah
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-wah-live|
 #EXTINF:-1 tvg-id="19" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="Bangla",Ekattor TV
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
