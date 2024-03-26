@@ -28,7 +28,7 @@ http://bdixtv247.techpriyo.com/api/bio/av.php?id=zee-bangla|
 #EXTINF:-1 tvg-id="14" tvg-name="Colors Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2d207502-d828-4c9e-a53d-5091b91470e0/561a542e-8ea9-4b34-ac4c-18b3dc19f2f3.png?width=300" tvg-chno="1" group-title="Bangla",Colors Bangla
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=colors-bangla|
 #EXTINF:-1 tvg-id="15" tvg-name="NTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png?width=300" tvg-chno="1" group-title="Bangla",NTV
-http://bdixtv247.techpriyo.com/api/bio/av.php?id=ntv|
+https://ythls-v2.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Gazi TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="1" group-title="Bangla",Gazi TV
 http://114.130.96.165:8080/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Sports",T Sports
