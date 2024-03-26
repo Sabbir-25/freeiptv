@@ -31,53 +31,65 @@ http://bdixtv247.techpriyo.com/api/bio/av.php?id=colors-bangla|
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=ntv|
 #EXTINF:-1 tvg-id="16" tvg-name="Gazi TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="1" group-title="Bangla",Gazi TV
 http://114.130.96.165:8080/1102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="17" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Sports",T Sports
 https://bdixtv247.techpriyo.com/api/chd/files.php/gtvbd.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Channel 9" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="1" group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-id="18" tvg-name="Channel 9" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="1" group-title="Bangla",Channel 9
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Hindi",Sony Wah
+#EXTINF:-1 tvg-id="19" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Hindi",Sony Wah
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-wah-live|
-#EXTINF:-1 tvg-id="19" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="Bangla",Ekattor TV
+#EXTINF:-1 tvg-id="20" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="Bangla",Ekattor TV
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Gaan Bangla" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="1" group-title="Bangla",Gaan Bangla
+#EXTINF:-1 tvg-id="21" tvg-name="Gaan Bangla" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="1" group-title="Bangla",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Global TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Global TV
+#EXTINF:-1 tvg-id="22" tvg-name="Global TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Global TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Ekhon TV
 http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Rajdhani TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300" tvg-chno="1" group-title="Bangla",Rajdhani TV
+#EXTINF:-1 tvg-id="24" tvg-name="Rajdhani TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300" tvg-chno="1" group-title="Bangla",Rajdhani TV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=rajdhani-tv|
-#EXTINF:-1 tvg-id="24" tvg-name="Zee Bollywood" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" tvg-chno="1" group-title="Hindi",Zee Bollywood
+#EXTINF:-1 tvg-id="25" tvg-name="Zee Bollywood" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" tvg-chno="1" group-title="Hindi",Zee Bollywood
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=zee-bollywood|
-#EXTINF:-1 tvg-id="25" tvg-name="Channel 24" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png?width=300" tvg-chno="1" group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-id="26" tvg-name="Channel 24" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png?width=300" tvg-chno="1" group-title="Bangla",Channel 24
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=channel-24|
-#EXTINF:-1 tvg-id="26" tvg-name="Colors Asia" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/144db557-f209-49fe-ba87-92f554ab325c/3a09ab22-3aa4-44fa-a950-b2d9390163da.png?width=300" tvg-chno="1" group-title="Hindi",Colors Asia
+#EXTINF:-1 tvg-id="27" tvg-name="Colors Asia" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/144db557-f209-49fe-ba87-92f554ab325c/3a09ab22-3aa4-44fa-a950-b2d9390163da.png?width=300" tvg-chno="1" group-title="Hindi",Colors Asia
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=colors-asia|
-#EXTINF:-1 tvg-id="27" tvg-name="Zee Cinema HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" tvg-chno="1" group-title="Hindi",Zee Cinema HD
+#EXTINF:-1 tvg-id="28" tvg-name="Zee Cinema HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" tvg-chno="1" group-title="Hindi",Zee Cinema HD
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=zee-cinema-hd|
-#EXTINF:-1 tvg-id="28" tvg-name="RTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png?width=300" tvg-chno="1" group-title="Bangla",RTV
+#EXTINF:-1 tvg-id="29" tvg-name="RTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/76b4fc9d-cdcb-4693-8269-1350cdad57ae/d9023977-e8ed-401a-990c-7b08256097cc.png?width=300" tvg-chno="1" group-title="Bangla",RTV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=rtv|
-#EXTINF:-1 tvg-id="29" tvg-name="Ekushey TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="1" group-title="Bangla",Ekushey TV
+#EXTINF:-1 tvg-id="30" tvg-name="Ekushey TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="1" group-title="Bangla",Ekushey TV
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="Bangla Vision" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e29634d1-25f0-455e-b24f-66568c17845c/31d65e04-de18-4287-afbd-255903ecc2c7.png?width=300" tvg-chno="1" group-title="Bangla",Bangla Vision
+#EXTINF:-1 tvg-id="31" tvg-name="Bangla Vision" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e29634d1-25f0-455e-b24f-66568c17845c/31d65e04-de18-4287-afbd-255903ecc2c7.png?width=300" tvg-chno="1" group-title="Bangla",Bangla Vision
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8|
-#EXTINF:-1 tvg-id="31" tvg-name="Sony Aath" tvg-country="BAN" tvg-logo="http://tv4.hoichoi24.com/assets/images/Animal%20Planet1664974986.png" tvg-chno="1" group-title="Bangla",Sony Aath
+#EXTINF:-1 tvg-id="32" tvg-name="Sony Aath" tvg-country="BAN" tvg-logo="http://tv4.hoichoi24.com/assets/images/Animal%20Planet1664974986.png" tvg-chno="1" group-title="Bangla",Sony Aath
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=sony-aath-live|
-#EXTINF:-1 tvg-id="32" tvg-name="Channel I" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png?width=300" tvg-chno="1" group-title="Bangla",Channel I
+#EXTINF:-1 tvg-id="33" tvg-name="Channel I" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png?width=300" tvg-chno="1" group-title="Bangla",Channel I
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Comedy Central" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/0293d035-9b77-4d7d-8274-6ae9fa2ceb7f/27a5dcbd-8c0d-42f0-b32e-4821a5c9ffcc.png?width=300" tvg-chno="1" group-title="English",Comedy Central
+#EXTINF:-1 tvg-id="34" tvg-name="Comedy Central" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/0293d035-9b77-4d7d-8274-6ae9fa2ceb7f/27a5dcbd-8c0d-42f0-b32e-4821a5c9ffcc.png?width=300" tvg-chno="1" group-title="English",Comedy Central
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=comedy-central|
-#EXTINF:-1 tvg-id="34" tvg-name="Boishakhi Television" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a2dc3ab-3f2e-4508-93e6-0f76fe090228/75f82d30-06b2-46a0-aa15-483058e0e482.png?width=300" tvg-chno="1" group-title="Bangla",Boishakhi Television
+#EXTINF:-1 tvg-id="35" tvg-name="Boishakhi Television" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a2dc3ab-3f2e-4508-93e6-0f76fe090228/75f82d30-06b2-46a0-aa15-483058e0e482.png?width=300" tvg-chno="1" group-title="Bangla",Boishakhi Television
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="Independent TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png?width=300" tvg-chno="1" group-title="Bangla",Independent TV
+#EXTINF:-1 tvg-id="36" tvg-name="Independent TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/59bb2200-2c12-4ae9-9989-bd520a66013d/7734ec20-8f93-4fe7-9dbd-950ddd73067f.png?width=300" tvg-chno="1" group-title="Bangla",Independent TV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=independent-tv|
-#EXTINF:-1 tvg-id="36" tvg-name="ATN Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0242c14-04df-4e2e-9e22-0e577839ce12/47490942-bd2d-4c40-94a0-5656c4a763b7.png?width=300" tvg-chno="1" group-title="Bangla",ATN Bangla
+#EXTINF:-1 tvg-id="37" tvg-name="ATN Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f0242c14-04df-4e2e-9e22-0e577839ce12/47490942-bd2d-4c40-94a0-5656c4a763b7.png?width=300" tvg-chno="1" group-title="Bangla",ATN Bangla
 http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8|
-#EXTINF:-1 tvg-id="37" tvg-name="Bijoy TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="1" group-title="Bangla",Bijoy TV
+#EXTINF:-1 tvg-id="38" tvg-name="Bijoy TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="1" group-title="Bangla",Bijoy TV
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="Asian TV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png?width=300" tvg-chno="1" group-title="Bangla",Asian TV HD
+#EXTINF:-1 tvg-id="39" tvg-name="Asian TV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4382bbec-8d64-4d00-b24f-60273db28712.png?width=300" tvg-chno="1" group-title="Bangla",Asian TV HD
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=asian-tv-hd|
-#EXTINF:-1 tvg-id="39" tvg-name="Bangla TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Bangla TV
+#EXTINF:-1 tvg-id="40" tvg-name="Bangla TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Bangla TV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
-#EXTINF:-1 tvg-id="40" tvg-name="Saudi Quran" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/96ac36ef-72c2-4b4c-971f-bff70b261bc6/bab0e03a-46ef-48f3-bac1-6ccf894f9538.png?width=300" tvg-chno="1" group-title="Islamic",Saudi Quran
+#EXTINF:-1 tvg-id="41" tvg-name="Saudi Quran" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/96ac36ef-72c2-4b4c-971f-bff70b261bc6/bab0e03a-46ef-48f3-bac1-6ccf894f9538.png?width=300" tvg-chno="1" group-title="Islamic",Saudi Quran
 http://bdixtv247.techpriyo.com/
+#EXTINF:-1 tvg-id="42" tvg-name="Desh TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" tvg-chno="1" group-title="Bangla",Desh TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
+#EXTINF:-1 tvg-id="43" tvg-name="Maasranga TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" tvg-chno="1" group-title="Bangla",Maasranga TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
+#EXTINF:-1 tvg-id="44" tvg-name="Jamuna TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" tvg-chno="1" group-title="Bangla",Jamuna TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
+#EXTINF:-1 tvg-id="45" tvg-name="SA TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" tvg-chno="1" group-title="Bangla",SA TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
+#EXTINF:-1 tvg-id="46" tvg-name="Mohona TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" tvg-chno="1" group-title="Bangla",Mohona TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
+#EXTINF:-1 tvg-id="47" tvg-name="My TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" tvg-chno="1" group-title="Bangla",My TV
+http://bdixtv247.techpriyo.com/api/bio/av.php?id=bangla-tv|
