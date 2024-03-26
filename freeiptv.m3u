@@ -30,7 +30,7 @@ http://bdixtv247.techpriyo.com/api/bio/av.php?id=colors-bangla|
 #EXTINF:-1 tvg-id="15" tvg-name="NTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/c464fb45-f8bf-49a5-be22-85699806536e/64eac2a6-19cd-4507-b246-2c8f10a991f9.png?width=300" tvg-chno="1" group-title="Bangla",NTV
 https://ythls-v2.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Gazi TV" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="1" group-title="Bangla",Gazi TV
-http://114.130.96.165:8080/1102/tracks-v1a1/mono.m3u8
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="T Sports" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="1" group-title="Sports",T Sports
 https://bdixtv247.techpriyo.com/api/chd/files.php/gtvbd.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Channel 9" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="1" group-title="Bangla",Channel 9
