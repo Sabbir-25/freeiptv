@@ -43,7 +43,7 @@ http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="Global TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Global TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6f9ba5ba-bdcd-4280-9499-79888146d41f/7dda5871-5429-40f4-b8fa-840efb1936cc.png?width=300" tvg-chno="1" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-country="BAN" tvg-logo="https://media.licdn.com/dms/image/C5603AQH10b3sy_LutA/profile-displayphoto-shrink_200_200/0/1651483698678?e=2147483647&v=beta&t=uLvAwnbSD3ECahqAtgpL90oWMu_zYyzihByE7dsd37A" tvg-chno="1" group-title="Bangla",Ekhon TV
 http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Rajdhani TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b26da36a-8cc2-4d78-81b5-712efa69484a/a21de3fd-d994-403a-ae83-c7b54c2f224f.png?width=300" tvg-chno="1" group-title="Bangla",Rajdhani TV
 http://bdixtv247.techpriyo.com/api/bio/av.php?id=rajdhani-tv|
