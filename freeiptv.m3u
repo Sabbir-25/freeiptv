@@ -101,3 +101,15 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/sonic_Hindi_MOB/Fallback/index.m3u
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="1" group-title="Kids", Sony Yay
 https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000001971&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony SAB HD" tvg-country="BAN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="1" group-title="Hindi", Sony SAB HD
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000009248&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony Pal" tvg-country="BAN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="1" group-title="Hindi", Sony Pal
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000009273&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony Marathl" tvg-country="BAN" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" tvg-chno="1" group-title="Hindi", Sony Marathl
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000009259&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony MAX 2" tvg-country="BAN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="1" group-title="Hindi", Sony MAX 2
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000044878&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony PIX HD" tvg-country="BAN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="1" group-title="English", Sony PIX HD
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000009258&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Sony KAL" tvg-country="BAN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="1" group-title="Hindi", Sony KAL
+https://the-nayeemparvez.xyz/sonuliv/watch.php?id=0000000001&e=.m3u8
