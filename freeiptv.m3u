@@ -38,7 +38,7 @@ http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="Sony Wah" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300" tvg-chno="1" group-title="Hindi",Sony Wah
 https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000009253&e=.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="Bangla",Ekattor TV
-http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+https://fgb4.short.gy/ekatto-bdstreamhub.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Gaan Bangla" tvg-country="BAN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="1" group-title="Bangla",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="Global TV" tvg-country="BAN" tvg-logo="https://logowik.com/content/uploads/images/globaltv-indonesia4330.logowik.com.webp" tvg-chno="1" group-title="Bangla",Global TV
@@ -62,7 +62,7 @@ http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Bangla Vision" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e29634d1-25f0-455e-b24f-66568c17845c/31d65e04-de18-4287-afbd-255903ecc2c7.png?width=300" tvg-chno="1" group-title="Bangla",Bangla Vision
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8|
 #EXTINF:-1 tvg-id="32" tvg-name="Sony Aath" tvg-country="BAN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="1" group-title="Bangla",Sony Aath
-https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=163242aeb6c124a52
+https://fgb4.short.gy/sony-aath-bdstreamhub.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Channel I" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png?width=300" tvg-chno="1" group-title="Bangla",Channel I
 http://cdn01.palki.tv/live/Channeli-M/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="Comedy Central" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/0293d035-9b77-4d7d-8274-6ae9fa2ceb7f/27a5dcbd-8c0d-42f0-b32e-4821a5c9ffcc.png?width=300" tvg-chno="1" group-title="English",Comedy Central
@@ -98,7 +98,7 @@ https://s1.thenayeemparvez.xyz/api/cb21.m3u8?id=8826
 #EXTINF:-1 tvg-id="8" tvg-name="Sonic Hindi" tvg-country="BAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsIypULQXZ-qOe2-9f3rux2HY-UN93QWqLExazkJBEjLbIgDl3F3Jw3w&s=10" tvg-chno="1" group-title="Kids",Sonic Hindi
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/sonic_Hindi_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Sonic Bangla" tvg-country="BAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fnkECfCwKorLdqFvTy6y5V-TyUsXvmDMnVn4xc7cWQ&s" tvg-chno="1" group-title="Kids",Sonic Bangla
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="1" group-title="Kids", Sony Yay
 https://the-nayeemparvez.xyz/sonuliv/watch.php?id=1000001971&e=.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Sony SAB HD" tvg-country="BAN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="1" group-title="Hindi", Sony SAB HD
